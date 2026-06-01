@@ -96,3 +96,44 @@ This lab helped me understand how networking forms the foundation of cybersecuri
 ## Author
 Nicholas Kiyimba  
 Cybersecurity Student | TryHackMe Learner
+
+INTRODUCTION TO LAN (LOCAL AREA NETWORK)-TryHack Me Writeup
+
+A LAN (Local Area network ) refers to the type of network that is organised a around a small geographical area froexample a school, home a business and among others.
+
+A Network Topology;
+
+A network topology refers to the physical arrangement of computers on a network.
+
+There are many diferent network toplogies used in various organisations.these include;
+
+Ring topology
+
+Bus topology
+
+Star topology
+
+Mesh topology 
+
+Ring topology;
+
+computers or the nodes are arranged in a form of a ring and  if one the physical connector or one computer breaksdown,the whole network is down.
+
+Bus topology
+
+Withisone, the nodes are arranged and connected arround one long physiacal cablle line.
+This kind of topology is way cheap and easy to install and relatively cheap.
+But the big problem with it is that i cant mange to handle large amounts of data
+
+Star topology
+
+This topology involves nodes being conected to one central networking device like a switch or hub in form of a star.
+The advatage they have is that if one single node gets a problem or breaks down, the rest of the nodes stay up and running smothly but if the central networking device to which they are connected forexample a switch breaksdown,the whole network bresks down.
+
+Mesh topology
+
+This refers to the tpye of network topology where where nodes or he computers a arranged in form of a mesh.
+With topology,every node interconnected to another node meanig each node has the ability to send and recieve data to each and every node on the network.
+this kind of topoogy cant easily breakdown simply because one brokeen node can't affect the other nodes on the network.
+
+SWITCH
