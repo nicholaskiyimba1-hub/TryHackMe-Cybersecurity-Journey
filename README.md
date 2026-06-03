@@ -324,8 +324,18 @@ Analysis:
 
   itworks thisway,
 
-  it an APR request and
+  it an ARP request and
   An ARP reply
 
   when the ARP request is addressed tot the network, it asks '' what is the MAC address that owns this IP address'' When other devices recieve hat message, they will only reply only if they they own that IP address and they reply with an ARP reply with its MAC  adddress.
   The requesting device can now emember its mapping ad store it in its ARP cache memory for fututre use.
+
+  DHCP (DYNAMIC HOST CONFIGURATION PROTOCOL)
+
+  I f a device on network does not have an IPAddrss, DHCP server assigns one to it using DHCP
+
+  When a computer connects to a net work, it sends out what we call a DHCP dicover to see if there are nay DHCP servers exiting on the network. If the network has a DHCP server, it replies with a DHDCP offer along with an IP address. When the computeer recieves the DHPCP offer,it replies with a DHCP request to the server.When the request recheaches the server,it sends a DHCP ACK acknowledging the computer to use thw IP it has benn given.
+
+
+  
+  
