@@ -45,4 +45,23 @@ This protocol focuses more on speed than accuracy.It doesnt reserve a continuous
 
 3
 
-NETWORK LAYER 
+NETWORK LAYER
+
+This whee routiing happpens and reassembly takes place. This is where the recieviing computer gets the small chunksmof data and adds them up into large chunks of data
+
+A couple of protocols related with this layer include the OSPF ( Open Shortest Path First ) and the RIP (Routiing Information Protocol).
+
+In this layer, every thing is delt with using IP addresses and the ruters dot eh ransportation of data accross the network using the IP addresses and they are also knownas layerr 3 devices simply becuase they are capable of working the third layer of the OSI  Moedel.
+
+2
+
+DATA LINK LAYER 
+
+The data link layer recieves the packets from the networklayer with their IP address and then adds a MAC address of the receiving device.
+The MAC address guides the packet to the recieving device thereby eleiminating the packet's chances of losing direction during the travel.
+
+1
+
+PHYSICAL LAYER 
+
+This layer referemces the physical compononets of hardware ussed in networking. This is where the phsical bits and bytes of data are transfered to the computer 
