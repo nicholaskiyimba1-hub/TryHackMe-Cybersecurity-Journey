@@ -68,3 +68,22 @@ This packet is used to cleanly close the connection after it has been complete.
 
 This message abruptly ends the connection which means that there was some sort of a problem that occured during the process.
 
+## PORTS
+
+This refers to the places on the computer where we can send and recive data. In computing, ports are numerical values between **0 and 65,535**
+
+
+Also note that ports from **0 to 1024** are known as **common ports**
+
+**SOME OF THE PORTS ARE SHOWN BELOW**
+
+|**PROTOCOL**|                                                         **PORT**|                                                                  **DESCRIPTION**|
+|------------|-----------------------------------------------------------------|---------------------------------------------------------------------------------|
+|**File Transfer Protocol (FTP)**|                  21                         |This this protocol is uesed by file sharing applications built on a client server model meaning you can download files from a central location|
+|**Secure Shell(SSH)**|22|This protocol is used to securely log in to sysstem via a text based interface for management.|
+|**Hyper Text Transfer Prptocol (HTTP)**|80|This protocol powers the World Wide Web. Your web browser uses this protocol to downlod text, images, and videos of web pages.|
+|**Hyper Text Transfer Protocol Secure (HTTPS)**|443|This protoco does exactly as the above, however, securely using encryption.|
+|**Server Message Block (SMB)**|445|This protocol is similar to the file transfer protocol (FTP) However, for it it allows to share devices forexamle printers.|
+|**Remote Desktop Protocol (RDP)**|3389|This protocol is a secure means of logging into a system using Visual Desktop Interface.(As opposed to the text based limitations of SSH)|
+
+
