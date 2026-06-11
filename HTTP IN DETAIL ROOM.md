@@ -8,7 +8,7 @@ This is the secure version of the **HTTP** through encryption. On top of  provid
 
 # 🔗 URLs — Uniform Resource Locators
 
-**Author:** Nicholas Ssemakula | BSc Cybersecurity & Digital Forensics — Nkumba University
+**Author:** Nicholas Kiyimba | BSc Cybersecurity & Digital Forensics — Nkumba University
 **Topic:** URL Structure & Cybersecurity Relevance
 **Source:** TryHackMe + Personal Study Notes
 **Last Updated:** June 2026
