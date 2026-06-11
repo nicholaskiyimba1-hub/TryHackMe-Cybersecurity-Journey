@@ -1,6 +1,6 @@
 # 🌐 DNS — Domain Name System Learning Notes
 
-> **Author:** Nicholas Ssemakula | BSc Cybersecurity & Digital Forensics — Nkumba University  
+> **Author:** Nicholas Kiyimba | BSc Cybersecurity & Digital Forensics — Nkumba University  
 > **Topic:** DNS Fundamentals for Cybersecurity  
 > **Source:** TryHackMe + Personal Study Notes  
 > **Last Updated:** June 2026
